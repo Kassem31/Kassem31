@@ -39,6 +39,5 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kassem31&theme=dark" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kassem31&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassem31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
